@@ -7,9 +7,9 @@ end
 return new_array.join(" ")
 end 
 
-def reverse_each_word(string)
-  sentence = string.split(" ")
-  sentence.collect do |word|
-word.reverse.join(" ")
-end 
-end 
+# def reverse_each_word(string)
+#   sentence = string.split(" ")
+#   sentence.collect do |word|
+# word.reverse.join(" ")
+# end 
+# end 
